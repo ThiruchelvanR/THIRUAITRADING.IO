@@ -1,1 +1,1 @@
-# trade_executor.py placeholder content
+# Placeholder content for trade_executor.py

@@ -1,1 +1,1 @@
-# logger.py placeholder content
+# Placeholder content for logger.py

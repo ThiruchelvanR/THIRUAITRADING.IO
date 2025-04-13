@@ -1,1 +1,1 @@
-# global_markets_fetcher.py placeholder content
+# Placeholder content for global_markets_fetcher.py

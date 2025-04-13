@@ -1,1 +1,1 @@
-# strategy_updater.py placeholder content
+# Placeholder content for strategy_updater.py

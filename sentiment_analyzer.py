@@ -1,1 +1,1 @@
-# sentiment_analyzer.py placeholder content
+# Placeholder content for sentiment_analyzer.py
